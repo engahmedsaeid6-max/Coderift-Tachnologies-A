@@ -1,0 +1,26 @@
+[
+    {
+        "ticket_id": 1,
+        "message": "The application crashes whenever I upload a PDF."
+    },
+    {
+        "ticket_id": 2,
+        "message": "Could you add dark mode?"
+    },
+    {
+        "ticket_id": 3,
+        "message": "How can I reset my password?"
+    },
+    {
+        "ticket_id": 4,
+        "message": "The dashboard freezes after login."
+    },
+    {
+        "ticket_id": 5,
+        "message": "Please implement two-factor authentication."
+    },
+    {
+        "ticket_id": 6,
+        "message": "Where can I find the user guide?"
+    }
+]
