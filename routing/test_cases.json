@@ -1,38 +1,35 @@
-[
+
+ [
     {
-        "ticket": "The application crashes whenever I upload a file.",
+        "ticket": "Whenever I try to upload my assignment, the system closes without any warning.",
         "expected": "BUG"
     },
     {
-        "ticket": "The dashboard freezes after login.",
+        "ticket": "It would be amazing if there was a dark theme because I usually work at night.",
+        "expected": "FEATURE"
+    },
+    {
+        "ticket": "I'm locked out of my account. What should I do?",
+        "expected": "QUESTION"
+    },
+    {
+        "ticket": "Signing in no longer works after the latest release.",
         "expected": "BUG"
     },
     {
-        "ticket": "Can you add dark mode support?",
+        "ticket": "Could you make the platform available in French and Spanish?",
         "expected": "FEATURE"
     },
     {
-        "ticket": "I would like an option to export reports to Excel.",
-        "expected": "FEATURE"
-    },
-    {
-        "ticket": "How can I reset my password?",
+        "ticket": "Can someone explain how my monthly subscription is calculated?",
         "expected": "QUESTION"
     },
     {
-        "ticket": "Where can I find the user guide?",
-        "expected": "QUESTION"
-    },
-    {
-        "ticket": "The application is running slow on my device.",
+        "ticket": "After updating yesterday, none of the buttons seem to respond anymore.",
         "expected": "BUG"
     },
     {
-        "ticket": "Can you add multi-language support?",
+        "ticket": "I'd love to secure my account using verification codes.",
         "expected": "FEATURE"
-    },
-    {
-        "ticket": "What are the system requirements for this application?",
-        "expected": "QUESTION"
     }
 ]
