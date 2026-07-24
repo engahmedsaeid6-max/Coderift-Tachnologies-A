@@ -1,0 +1,38 @@
+[
+    {
+        "ticket": "The application crashes whenever I upload a file.",
+        "expected": "BUG"
+    },
+    {
+        "ticket": "The dashboard freezes after login.",
+        "expected": "BUG"
+    },
+    {
+        "ticket": "Can you add dark mode support?",
+        "expected": "FEATURE"
+    },
+    {
+        "ticket": "I would like an option to export reports to Excel.",
+        "expected": "FEATURE"
+    },
+    {
+        "ticket": "How can I reset my password?",
+        "expected": "QUESTION"
+    },
+    {
+        "ticket": "Where can I find the user guide?",
+        "expected": "QUESTION"
+    },
+    {
+        "ticket": "The application is running slow on my device.",
+        "expected": "BUG"
+    },
+    {
+        "ticket": "Can you add multi-language support?",
+        "expected": "FEATURE"
+    },
+    {
+        "ticket": "What are the system requirements for this application?",
+        "expected": "QUESTION"
+    }
+]
