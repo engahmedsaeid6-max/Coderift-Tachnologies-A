@@ -1,19 +1,19 @@
 [
     {
         "ticket_id": 1,
-        "message": "The application crashes whenever I upload a PDF file."
+        "message": "The application crashes every time I upload a PDF."
     },
     {
         "ticket_id": 2,
-        "message": "Could you add dark mode in the next update?"
+        "message": "Please add dark mode to the application."
     },
     {
         "ticket_id": 3,
-        "message": "How can I reset my account password?"
+        "message": "How can I reset my password?"
     },
     {
         "ticket_id": 4,
-        "message": "Login page shows an unexpected error after signing in."
+        "message": "The login page shows an unexpected error."
     },
     {
         "ticket_id": 5,
@@ -21,7 +21,7 @@
     },
     {
         "ticket_id": 6,
-        "message": "Can you explain how the billing system works?"
+        "message": "Can you explain how billing works?"
     },
     {
         "ticket_id": 7,
