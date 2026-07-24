@@ -1,26 +1,34 @@
 [
     {
         "ticket_id": 1,
-        "message": "The application crashes whenever I upload a PDF."
+        "message": "Uploading a PDF doesn't always work. Sometimes it succeeds, but most of the time the application suddenly disappears."
     },
     {
         "ticket_id": 2,
-        "message": "Could you add dark mode?"
+        "message": "Working late is difficult because the interface is too bright. A darker appearance would really help."
     },
     {
         "ticket_id": 3,
-        "message": "How can I reset my password?"
+        "message": "I forgot my password and I'm not sure how to regain access to my account."
     },
     {
         "ticket_id": 4,
-        "message": "The dashboard freezes after login."
+        "message": "Since the last update I can type my username and password, but nothing happens after clicking Sign In."
     },
     {
         "ticket_id": 5,
-        "message": "Please implement two-factor authentication."
+        "message": "Many users in our company don't speak English. Supporting multiple languages would be valuable."
     },
     {
         "ticket_id": 6,
-        "message": "Where can I find the user guide?"
+        "message": "Could you clarify why I was charged twice this month?"
+    },
+    {
+        "ticket_id": 7,
+        "message": "Yesterday's update completed successfully, but now almost every page becomes unresponsive after a few seconds."
+    },
+    {
+        "ticket_id": 8,
+        "message": "For better security, I think logging in with a one-time verification code would be useful."
     }
 ]
